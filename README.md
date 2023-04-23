@@ -1,2 +1,2 @@
-# Sistema-de-Seguimiento-y-Control-PO
+# SistemaSeguimientoControlPO
 Sistema de Seguimiento y Control Postoperatorios para clínicas
